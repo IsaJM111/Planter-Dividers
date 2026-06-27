@@ -3,7 +3,7 @@ A modular 3D printable insert system for planter beds, allowing for easier use a
 
 <img width="50%" height="50%" alt="IMG_8179" src="https://github.com/user-attachments/assets/9a9a9886-0911-40de-ae9d-10514b0b85ad" />
 
-**DEMO VIDEO LINK ->** https://drive.google.com/file/d/1E_N5sjxuIo6_Fe54BFOe8eZFk0e8sGBM/view?usp=sharing 
+**DEMO VIDEO LINK ->** https://youtu.be/DyGzhovFwtk
 
 **FEATURES**
 - Full size (8" x 5.5" x 4.5") and half size (4" x 5.5" x 4.5") inserts.
